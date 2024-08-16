@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srinivas Shanti</h1>
-<h3 align="center">I am a passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasshanti&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasshanti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasshanti&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasshanti" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasshanti" alt="srinivasshanti" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/srinivas-shanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/srinivas-shanti" height="30" width="40" /></a>
 </p>
